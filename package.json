@@ -1,0 +1,6 @@
+{
+  "name": "renovate-tar-fs",
+  "dependencies": {
+    "newrelic": "^12.8.0"
+  }
+}
